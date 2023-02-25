@@ -83,4 +83,7 @@ nav a:first-of-type {
     margin-top: 1rem;
   }
 }
+h2 {
+  color: red;
+}
 </style>
